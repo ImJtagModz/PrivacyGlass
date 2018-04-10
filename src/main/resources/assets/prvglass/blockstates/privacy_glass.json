@@ -1,0 +1,20 @@
+{
+    "variants": {
+		"active=0": { "model": "prvglass:privacy_glass" },
+		"active=1": { "model": "prvglass:privacy_glass_active" },
+		"active=2": { "model": "prvglass:privacy_glass_active" },
+		"active=3": { "model": "prvglass:privacy_glass_active" },
+		"active=4": { "model": "prvglass:privacy_glass_active" },
+		"active=5": { "model": "prvglass:privacy_glass_active" },
+		"active=6": { "model": "prvglass:privacy_glass_active" },
+		"active=7": { "model": "prvglass:privacy_glass_active" },
+		"active=8": { "model": "prvglass:privacy_glass_active" },
+		"active=9": { "model": "prvglass:privacy_glass_active" },
+		"active=10": { "model": "prvglass:privacy_glass_active" },
+		"active=11": { "model": "prvglass:privacy_glass_active" },
+		"active=12": { "model": "prvglass:privacy_glass_active" },
+		"active=13": { "model": "prvglass:privacy_glass_active" },
+		"active=14": { "model": "prvglass:privacy_glass_active" },
+		"active=15": { "model": "prvglass:privacy_glass_active" }
+    }
+}
